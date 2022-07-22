@@ -3,7 +3,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 
-from st_aggrid import AgGrid
+#from st_aggrid import AgGrid
 
 # import matplotlib.pyplot as plt
 # import matplotlib
